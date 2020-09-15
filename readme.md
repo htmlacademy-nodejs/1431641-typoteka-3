@@ -1,7 +1,7 @@
 # Личный проект «Типотека» [![Build status][travis-image]][travis-url]
 
-* Студент: [Igors Gudelis](https://up.htmlacademy.ru/nodejs/3/user/1431641).
-* Наставник: `Неизвестно`.
+- Студент: [Igors Gudelis](https://up.htmlacademy.ru/nodejs/3/user/1431641).
+- Наставник: [Никита Куцелай](https://htmlacademy.ru/profile/id32750).
 
 ---
 
