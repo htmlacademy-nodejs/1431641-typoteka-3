@@ -1,5 +1,7 @@
 `use strict`;
 
+const chalk = require(`chalk`);
+
 const helpMessage = `
 Гайд:
     service.js <command>
@@ -13,6 +15,6 @@ const helpMessage = `
 module.exports = {
   name: `--help`,
   run() {
-    console.info(helpMessage);
+    console.info(chalk.grey(helpMessage));
   },
 };
